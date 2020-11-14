@@ -34,8 +34,9 @@ int Determinant(int** Mat, int N){
 
 int main(){
     int N;
-    int** Matrix=malloc(N * sizeof(int*));
     scanf("%d", &N);
+    int** Matrix=malloc(N * sizeof(int*));
+
     for (int i = 0; i < N; i++){
         Matrix[i] = malloc(N * sizeof(int));
         for (int j = 0; j < N; j++)
