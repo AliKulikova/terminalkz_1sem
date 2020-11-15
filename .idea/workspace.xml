@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94fcc5d-729a-4e08-a6e1-1b4700020020" name="Default Changelist" comment="" />
+    <list default="true" id="f94fcc5d-729a-4e08-a6e1-1b4700020020" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/5th normal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5th normal.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,14 +44,14 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="untitled12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled12" TARGET_NAME="untitled12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled12" RUN_TARGET_NAME="untitled12">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="untitled12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled12" TARGET_NAME="untitled12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled12" RUN_TARGET_NAME="untitled12">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
@@ -65,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605355801977</updated>
       <workItem from="1605355803682" duration="615000" />
+      <workItem from="1605457967646" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="Eee">
       <created>1605355936951</created>
