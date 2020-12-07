@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="untitled12" targetName="untitled12" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -11,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94fcc5d-729a-4e08-a6e1-1b4700020020" name="Default Changelist" comment="Успела" />
+    <list default="true" id="f94fcc5d-729a-4e08-a6e1-1b4700020020" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled12/7th.c" beforeDir="false" afterPath="$PROJECT_DIR$/untitled12/7th.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +21,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -69,6 +69,7 @@
       <workItem from="1605355803682" duration="615000" />
       <workItem from="1605457967646" duration="2109000" />
       <workItem from="1606215043392" duration="1880000" />
+      <workItem from="1606745311488" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="Eee">
       <created>1605355936951</created>
@@ -84,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605458880268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6ая работа">
+      <created>1606745438318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606745438318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,24 +101,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eee" />
     <MESSAGE value="Метод гаусса, крамера что-то неполучалось(" />
-    <option name="LAST_COMMIT_MESSAGE" value="Метод гаусса, крамера что-то неполучалось(" />
+    <MESSAGE value="6ая работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="6ая работа" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605356180085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605356180085" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1605458879255">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1606745437336">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605458879255" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606745437336" />
     <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1605356427684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605356427684" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605458885915">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606745447361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605458885915" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606745447361" />
   </component>
 </project>
